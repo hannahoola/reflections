@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+- it creates a folder .git, which tracks all the activities (changes) in the directory=>
+it's possible to get logs of all the changes done and make commits
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+- it allows to commit at once only some changes that were made during a certain period of time and
+logically separate dirrerent changes
