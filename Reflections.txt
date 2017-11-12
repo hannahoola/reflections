@@ -1,0 +1,42 @@
+How did viewing the diff between two versions help to spot the bug?
+- No need to scroll through the entire code (less tedious)
+- Less time consuming
+- More chances to find all the bugs and miss nothing
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+- you can look at your past work and see, if you used efficient methods to implement some features
+- roll back some changes you've done (which resulted in worse code)
+- trace the changes other people made (and address them in case there are any problems)
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros of manual commits:
+- no overclogging of commit history with teeny-tiny commits
+- possibility to make logical commits (once the code for one feature was finished)
+
+Cons:
+- unexpected shutdown of a PC (blackout, system problem) will end up with not saving changes
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+- Because systems like Google Docs have their target audience, which does not consider files as parts
+of ecosystems, but rather as separate and unconnected items => they don't need the features Git has
+
+How can you use the commands git log and git diff to view the history of files?
+- with git log I can see, who and when made the changes
+- with git diff I can see the exact changes that were made
+
+How might using version control make you more confident to make changes that could break something?
+- I could be sure that nothing will be lost even if changes that break smth, are introduced
+- I could also quickly find out, where and what was happenning that thngs got out of control
+
+Now that you have your workspace set up, what do you want to try using Git for?
+- I want to organize my first project on GitHub
+- I want to have version control of my Reflections file
+
+
+
+
+
+
