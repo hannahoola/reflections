@@ -6,3 +6,13 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 - it allows to commit at once only some changes that were made during a certain period of time and
 logically separate dirrerent changes
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+- when you want to localize your code in diff languages
+- when you want to run experimental code
+- branches would eliminate the need for switching back and forth from older to newer commits
+
+How do the diagrams help you visualize the branch structure?
+- they allow me to track branches creation
+- they allow to understand, which commits are reachable within each branch
