@@ -1,0 +1,10 @@
+When would you want to use a remote repository rather than keeping all your work local?
+- when I want to share my work with sb else
+- I want to edit my work on different devices and then sync it
+- want to let others edit my code
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+- because I may want not to update some code I have on Github (for ex., some changes from other
+contributors, I'd rather run a code review first)
+
