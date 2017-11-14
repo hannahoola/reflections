@@ -16,3 +16,12 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
 - they allow me to track branches creation
 - they allow to understand, which commits are reachable within each branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros of auto merging:
++ fast
++ no need to do the code review and think
+
+cons of auto merging:
+- as of now, git software is not that "smart" to be able to distinguish changes as "to leave" or "to discard" correctly
+- some wrong and nonsensical commits might happen
